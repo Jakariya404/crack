@@ -84,9 +84,9 @@ def clear():
 def back():
 	login()
 
-ahsan="ALE-"
+ahsan="Jahid-"
 imt="-M4786=="
-ak="AHSAN-"
+ak="Pkg-"
 myid=uuid.uuid4().hex[:10].upper()
 try:
 	key1 = open('/data/data/com.termux/files/usr/bin/.mrahsan-cov', 'r').read()
@@ -309,7 +309,7 @@ def crack(idf,pwv):
 	bi = random.choice([u,k,kk,b,h,hh])
 	pers = loop*100/len(id2)
 	fff = '%'
-	sys.stdout.write('\r %s[ JAHIED ] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
+	sys.stdout.write('\r %s[ JAHID ] %s•%s • OK:%s • CP:%s  '%(bi,loop,len(id2),len(ok),cp)),
 	sys.stdout.flush()
 	ua = random.choice(ugen)
 	ua2 = random.choice(ugen2)
@@ -403,13 +403,13 @@ __________________×__×____________________
  
   𝙂𝙞𝙩𝙝𝙪𝙗   :  𝑺𝑰𝑳𝑬𝑵𝑻-786
 
-  𝙁𝙖𝙘𝙚𝙗𝙤𝙤𝙠 :  𝑴𝑹 𝑫𝑬𝑽𝑰𝑳
+  𝙁𝙖𝙘𝙚𝙗𝙤𝙤𝙠 :  𝑴𝑹 Jahid
   
-  𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 :  +92*********?
+  𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 :  +01917466867?
   
    𝙏𝙀𝘼𝙈    :   𝑨𝑳𝑶𝑵𝑬 𝑳𝑶𝑽𝑬𝑹
 
-                𝑬𝑵𝑱𝑶𝒀  𝑭𝑹𝑬𝑬 𝑻𝑶𝑶𝑳𝑺
+                𝑬𝑵𝑱𝑶𝒀  Paid 𝑻𝑶𝑶𝑳𝑺
 __________________×__×____________________\033[1;37m""")
 
 class Main:
@@ -1329,6 +1329,7 @@ def Subscraption():
 		input(" Press Enter To Send Key")
 		time.sleep(3.5)
 		tks = 'Dear%20Admin,%20Please%20Approved%20My%20Key%20To%20Premium%20%20Thanks%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20Name%20:%20'+name+'%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20My%20%20Key%20%20:%20'+ak+ahsan+''+key1
-		os.system('am start https://wa.me/+923111908699?text=' + tks)
+		os.system('am start https://wa.me/+01917466867?text=' + tks)
 		Subscraption()        
-Main()
+
+Subscraption()
